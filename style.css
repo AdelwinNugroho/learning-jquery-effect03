@@ -1,0 +1,22 @@
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+.box {
+    align-items: center;
+	height: 300px;
+	width: 300px;
+	background: tomato;
+	display: none;
+}
+
+#adelwin, #adelwin2, #adelwin3 {
+	padding: 10px;
+	color: #fff;
+	background: #34495E;
+	border: none;
+}
